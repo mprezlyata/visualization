@@ -10,7 +10,18 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good visualization: Telecom Customer Churn Dashboard || Regional Overview by Iaroslava Mizai https://public.tableau.com/app/profile/iaroslava/viz/TelecomCustomerChurnDashboardRegionalOverview/REGIONAL. The dashboard focuses on customer churn rate as the primary KPI, which is crucial for telecom businesses. It’s visually coherent and fairly easy to navigate.
+      The layout appears logically structured: a main header or banner at the top for quick insight, followed by more detailed visualizations (maps, bar charts, etc.). Labels and legends are placed within immediate view, reducing confusion and improving interpretation. The color palette tends toward a professional, subdued set of hues. States appear color-coded by churn levels. The gradient is intuitive (e.g., light color = lower churn rate; dark color = higher churn rate). This highlights problem areas at a glance.  Tooltips appear when hovering over data points, offering details such as churn rate, number of customers, and revenue. This keeps the main charts uncluttered. The dashboard features headline metrics (e.g., overall churn rate, total customers, revenue), allowing executives or stakeholders to see the status immediately. A map is an effective way to show geographic churn differences. Quickly identifying high-churn areas can guide where the company may need focused retention efforts.
+      
+      Bad Visualization: monthly expenses by Ram Gutte https://public.tableau.com/app/profile/sakshi.kadave/viz/monthlyexpenses_16711705529980/Dashboard1
+      Aesthetic
+      The graphs on the right and left use different colors to indicate the same categories, which can be challenging to interpret. A more cohesive color scheme or layout could help viewers see all expenses on one unified scale.
+      Perceptual
+      Labels may be small or overlapping, challenging the viewer’s ability to discern exact values at a glance.
+      Substantive
+      While the topic (monthly expenses) is important, the dashboard offers limited context for comparing one month to another or highlighting which categories have changed most significantly.
+      Without clear narrative cues, the viewer may not see how total spending evolves over time.
+      
 
 
 
@@ -21,7 +32,14 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Potential Improvements
+      If multiple charts are displayed side by side, ensuring consistent sizing and alignment makes the dashboard look more polished.
+      Ensuring every chart has clear titles and that all labels are the same size, font, and are unambiguous helps viewers instantly understand what they’re seeing.
+      Legends should be easily visible, with consistent color usage across different charts.
+      Showing a trend over multiple months or a comparison (e.g., last month vs. this month) might help viewers see if spending is increasing or decreasing in key categories.
+      Include a short textual summary: “Salary is the largest expense at 35%. Rent increased by 10% from last month.”
+      
+      
 
 
 
